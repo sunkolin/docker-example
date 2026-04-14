@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "highlight",
+    "search",
+    "sharing",
+    "fontsettings",
+    "livereload",
+    "flowchart-full",
+    "code",
+    "back-to-top-button"
+  ]
+}
